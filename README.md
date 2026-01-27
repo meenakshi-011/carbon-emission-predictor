@@ -20,6 +20,6 @@ Dataset obtained from [Kaggle – Carbon Dioxide Emissions](https://www.kaggle.c
 
 **Usage:**
 1. Clone the repo  
-2. Install requirements: `pip install -r requirements.txt`  
+2. Install requirements: `pip install -r requirements.text`  
 3. Run Flask app: `python app.py`  
 4. Open browser: `http://127.0.0.1:5000`
